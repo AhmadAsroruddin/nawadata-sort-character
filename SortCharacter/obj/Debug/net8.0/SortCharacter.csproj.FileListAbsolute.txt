@@ -1,0 +1,14 @@
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/bin/Debug/net8.0/SortCharacter
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/bin/Debug/net8.0/SortCharacter.deps.json
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/bin/Debug/net8.0/SortCharacter.runtimeconfig.json
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/bin/Debug/net8.0/SortCharacter.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/bin/Debug/net8.0/SortCharacter.pdb
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.AssemblyInfoInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.AssemblyInfo.cs
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.csproj.CoreCompileInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/refint/SortCharacter.dll
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.pdb
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/SortCharacter.genruntimeconfig.cache
+/Users/ahmadasroruddin/Development/aspnet/Nawadata/SortCharacter/SortCharacter/obj/Debug/net8.0/ref/SortCharacter.dll
